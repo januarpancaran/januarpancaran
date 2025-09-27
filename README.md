@@ -15,10 +15,10 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [januarpancaran/dotfiles-river](https://github.com/januarpancaran/dotfiles-river) - 
-- [januarpancaran/jabodetabek-house-price-prediction](https://github.com/januarpancaran/jabodetabek-house-price-prediction) - 
-- [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
+- [januarpancaran/dotfiles-river](https://github.com/januarpancaran/dotfiles-river) - My River Dotfiles
 - [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental) - Property Rental Web App built using Laravel Framework
+- [januarpancaran/jabodetabek-house-price-prediction](https://github.com/januarpancaran/jabodetabek-house-price-prediction) - A Web App for Predicting Price in Jabodetabek built using Flask
+- [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
 - [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Stuff Configurations on Windows
 
 ### 🌱 My latest projects
@@ -31,11 +31,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [feat(middleware): adding middleware to check user permission](https://github.com/januarpancaran/property-rental/pull/44) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [docs(readme): update readme](https://github.com/januarpancaran/property-rental/pull/43) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [refactor(controller): updating registered user controller](https://github.com/januarpancaran/property-rental/pull/42) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [refactor(ui): updating register view](https://github.com/januarpancaran/property-rental/pull/41) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [refactor(seeder): updating database seeder](https://github.com/januarpancaran/property-rental/pull/40) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
-- [feat(seeder): adding user seeder](https://github.com/januarpancaran/property-rental/pull/39) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 
 ### ⭐ Recent Stars
 
