@@ -1,0 +1,33 @@
+name: Update README
+
+on:
+  push:
+  schedule:
+    - cron: "0 */1 * * *"
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate README
+        uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_PAT }}
+        with:
+          template: "templates/PROFILE.tpl"
+          writeTo: "README.md"
+
+      - name: Push Back Changes
+        uses: stefanzweifel/git-auto-commit-action@v6
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          commit_message: "Update README"
+          branch: main
