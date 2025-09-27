@@ -31,11 +31,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [feat(controller): adding property controller and testing routes](https://github.com/januarpancaran/property-rental/pull/45) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [feat(middleware): adding middleware to check user permission](https://github.com/januarpancaran/property-rental/pull/44) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [docs(readme): update readme](https://github.com/januarpancaran/property-rental/pull/43) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [refactor(controller): updating registered user controller](https://github.com/januarpancaran/property-rental/pull/42) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [refactor(ui): updating register view](https://github.com/januarpancaran/property-rental/pull/41) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
-- [refactor(seeder): updating database seeder](https://github.com/januarpancaran/property-rental/pull/40) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 
 ### ⭐ Recent Stars
 
