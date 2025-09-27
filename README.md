@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-#### 👷 Check out what I'm currently working on
+### 👷 Check out what I'm currently working on
 
 - [januarpancaran/dotfiles-river](https://github.com/januarpancaran/dotfiles-river) - 
 - [januarpancaran/jabodetabek-house-price-prediction](https://github.com/januarpancaran/jabodetabek-house-price-prediction) - 
@@ -21,7 +21,7 @@
 - [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental) - Property Rental Web App built using Laravel Framework
 - [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Stuff Configurations on Windows
 
-#### 🌱 My latest projects
+### 🌱 My latest projects
 
 - [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental) - Property Rental Web App built using Laravel Framework
 - [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Stuff Configurations on Windows
@@ -29,7 +29,7 @@
 - [januarpancaran/dotfiles-niri](https://github.com/januarpancaran/dotfiles-niri) - My Niri Dotfiles
 - [januarpancaran/streamlit-test](https://github.com/januarpancaran/streamlit-test) - 
 
-#### 🔨 My recent Pull Requests
+### 🔨 My recent Pull Requests
 
 - [docs(readme): update readme](https://github.com/januarpancaran/property-rental/pull/43) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [refactor(controller): updating registered user controller](https://github.com/januarpancaran/property-rental/pull/42) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
@@ -37,7 +37,7 @@
 - [refactor(seeder): updating database seeder](https://github.com/januarpancaran/property-rental/pull/40) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [feat(seeder): adding user seeder](https://github.com/januarpancaran/property-rental/pull/39) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 
-#### ⭐ Recent Stars
+### ⭐ Recent Stars
 
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]
