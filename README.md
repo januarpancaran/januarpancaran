@@ -16,8 +16,8 @@
 ### 👷 Check out what I'm currently working on
 
 - [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
-- [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Stuff Configurations on Windows
 - [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental) - Property Rental Web App built using Laravel Framework
+- [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Stuff Configurations on Windows
 - [januarpancaran/jabodetabek-house-price-prediction](https://github.com/januarpancaran/jabodetabek-house-price-prediction) - A Web App for Predicting Price in Jabodetabek built using Flask
 - [januarpancaran/dotfiles-river](https://github.com/januarpancaran/dotfiles-river) - My River Dotfiles
 
@@ -31,11 +31,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [feat(actions): adding blade formatter](https://github.com/januarpancaran/property-rental/pull/47) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
+- [feat(role): adding roles CRUD and view](https://github.com/januarpancaran/property-rental/pull/46) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [feat(controller): adding property controller and testing routes](https://github.com/januarpancaran/property-rental/pull/45) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [feat(middleware): adding middleware to check user permission](https://github.com/januarpancaran/property-rental/pull/44) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [docs(readme): update readme](https://github.com/januarpancaran/property-rental/pull/43) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
-- [refactor(controller): updating registered user controller](https://github.com/januarpancaran/property-rental/pull/42) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
-- [refactor(ui): updating register view](https://github.com/januarpancaran/property-rental/pull/41) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 
 ### ⭐ Recent Stars
 
