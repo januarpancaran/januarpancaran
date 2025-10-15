@@ -39,11 +39,11 @@
 
 ### ⭐ Recent Stars
 
+- [gooofy/g2p_de](https://github.com/gooofy/g2p_de) - A Simple Python Module for German Grapheme To Phoneme Conversion
 - [Wikidepia/g2p-id](https://github.com/Wikidepia/g2p-id) - Indonesian Grapheme-to-Phoneme (IPA notation)
 - [Kyubyong/g2p](https://github.com/Kyubyong/g2p) - g2p: English Grapheme To Phoneme Conversion
 - [ChrisTitusTech/bypassnro](https://github.com/ChrisTitusTech/bypassnro) - Fixing Microsoft&#39;s removal of BypassNRO
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS &amp; Flakes in detail? Looking for a beginner-friendly tutorial? Then you&#39;ve come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
-- [0xc000022070/zen-browser-flake](https://github.com/0xc000022070/zen-browser-flake) - Community-driven Nix Flake for the Zen browser
 
 ### 📊 GitHub Stats:
 
