@@ -15,9 +15,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental) - Property Rental Web App built using Laravel Framework
 - [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
 - [januarpancaran/dotfiles-niri](https://github.com/januarpancaran/dotfiles-niri) - My Niri Dotfiles
-- [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental) - Property Rental Web App built using Laravel Framework
 - [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Stuff Configurations on Windows
 - [januarpancaran/dotfiles-river](https://github.com/januarpancaran/dotfiles-river) - My River Dotfiles
 
@@ -31,11 +31,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependencies](https://github.com/januarpancaran/property-rental/pull/57) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [refactor(routes): changing routes for consistency](https://github.com/januarpancaran/property-rental/pull/56) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [fix: fixing route permission](https://github.com/januarpancaran/property-rental/pull/55) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [feat(booking): adding userspace booking CRUD](https://github.com/januarpancaran/property-rental/pull/54) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [fix(user): fixing admin&#39;s user route permission](https://github.com/januarpancaran/property-rental/pull/53) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
-- [docs(readme): update readme](https://github.com/januarpancaran/property-rental/pull/51) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 
 ### ⭐ Recent Stars
 
