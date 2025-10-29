@@ -31,11 +31,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [feat: adding payment feature](https://github.com/januarpancaran/property-rental/pull/58) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [chore(deps): update dependencies](https://github.com/januarpancaran/property-rental/pull/57) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [refactor(routes): changing routes for consistency](https://github.com/januarpancaran/property-rental/pull/56) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [fix: fixing route permission](https://github.com/januarpancaran/property-rental/pull/55) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [feat(booking): adding userspace booking CRUD](https://github.com/januarpancaran/property-rental/pull/54) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
-- [fix(user): fixing admin&#39;s user route permission](https://github.com/januarpancaran/property-rental/pull/53) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 
 ### ⭐ Recent Stars
 
