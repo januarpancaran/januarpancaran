@@ -31,11 +31,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [Nambah asset](https://github.com/hismaaa/Chop-No-More/pull/4) on [hismaaa/Chop-No-More](https://github.com/hismaaa/Chop-No-More)
+- [feat: adding enemy spawner](https://github.com/hismaaa/Chop-No-More/pull/3) on [hismaaa/Chop-No-More](https://github.com/hismaaa/Chop-No-More)
+- [refactor: changing shooting mode to auto](https://github.com/hismaaa/Chop-No-More/pull/2) on [hismaaa/Chop-No-More](https://github.com/hismaaa/Chop-No-More)
+- [Player stats](https://github.com/hismaaa/Chop-No-More/pull/1) on [hismaaa/Chop-No-More](https://github.com/hismaaa/Chop-No-More)
 - [Propertyseeder](https://github.com/januarpancaran/property-rental/pull/61) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
-- [update property seeder](https://github.com/januarpancaran/property-rental/pull/60) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
-- [docs: update readme](https://github.com/januarpancaran/property-rental/pull/59) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
-- [feat: adding payment feature](https://github.com/januarpancaran/property-rental/pull/58) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
-- [chore(deps): update dependencies](https://github.com/januarpancaran/property-rental/pull/57) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 
 ### ⭐ Recent Stars
 
