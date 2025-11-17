@@ -15,9 +15,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental) - Property Rental Web App built using Laravel Framework
 - [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
 - [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Stuff Configurations on Windows
-- [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental) - Property Rental Web App built using Laravel Framework
 - [januarpancaran/dotfiles-niri](https://github.com/januarpancaran/dotfiles-niri) - My Niri Dotfiles
 - [januarpancaran/jabodetabek-house-price-prediction](https://github.com/januarpancaran/jabodetabek-house-price-prediction) - A Web App for Predicting Price in Jabodetabek built using Flask
 
@@ -31,11 +31,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [Payment, Property Seeder, and Maintenance](https://github.com/januarpancaran/property-rental/pull/63) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [Nambah asset](https://github.com/hismaaa/Chop-No-More/pull/4) on [hismaaa/Chop-No-More](https://github.com/hismaaa/Chop-No-More)
 - [feat: adding enemy spawner](https://github.com/hismaaa/Chop-No-More/pull/3) on [hismaaa/Chop-No-More](https://github.com/hismaaa/Chop-No-More)
 - [refactor: changing shooting mode to auto](https://github.com/hismaaa/Chop-No-More/pull/2) on [hismaaa/Chop-No-More](https://github.com/hismaaa/Chop-No-More)
 - [Player stats](https://github.com/hismaaa/Chop-No-More/pull/1) on [hismaaa/Chop-No-More](https://github.com/hismaaa/Chop-No-More)
-- [Propertyseeder](https://github.com/januarpancaran/property-rental/pull/61) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 
 ### ⭐ Recent Stars
 
