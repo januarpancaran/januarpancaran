@@ -39,11 +39,11 @@
 
 ### ⭐ Recent Stars
 
+- [nix-community/nix-ld](https://github.com/nix-community/nix-ld) - Run unpatched dynamic binaries on NixOS [maintainer=@Mic92]
 - [ab-azmi/capek-kuliah](https://github.com/ab-azmi/capek-kuliah) - Web untuk bantu anak ILKOM UNNES skripsian
 - [gooofy/g2p_de](https://github.com/gooofy/g2p_de) - A Simple Python Module for German Grapheme To Phoneme Conversion
 - [Wikidepia/g2p-id](https://github.com/Wikidepia/g2p-id) - Indonesian Grapheme-to-Phoneme (IPA notation)
 - [Kyubyong/g2p](https://github.com/Kyubyong/g2p) - g2p: English Grapheme To Phoneme Conversion
-- [ChrisTitusTech/bypassnro](https://github.com/ChrisTitusTech/bypassnro) - Fixing Microsoft&#39;s removal of BypassNRO
 
 ### 📊 GitHub Stats:
 
