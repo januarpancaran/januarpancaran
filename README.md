@@ -15,8 +15,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [januarpancaran/dotfiles-niri](https://github.com/januarpancaran/dotfiles-niri) - My Niri Dotfiles
 - [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
+- [januarpancaran/dotfiles-niri](https://github.com/januarpancaran/dotfiles-niri) - My Niri Dotfiles
 - [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental) - Property Rental Web App built using Laravel Framework
 - [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Stuff Configurations on Windows
 - [januarpancaran/jabodetabek-house-price-prediction](https://github.com/januarpancaran/jabodetabek-house-price-prediction) - A Web App for Predicting Price in Jabodetabek built using Flask
@@ -39,11 +39,11 @@
 
 ### ⭐ Recent Stars
 
+- [lyonad/S-box-Research-Analyzer](https://github.com/lyonad/S-box-Research-Analyzer) - Research Platform for AES S-box Modification through Affine Matrices Exploration and Parameter Optimization
 - [boppreh/aes](https://github.com/boppreh/aes) - A pure Python implementation of AES, with optional CBC, PCBC, CFB, OFB and CTR cipher modes.
 - [nix-community/nix-ld](https://github.com/nix-community/nix-ld) - Run unpatched dynamic binaries on NixOS [maintainer=@Mic92]
 - [ab-azmi/capek-kuliah](https://github.com/ab-azmi/capek-kuliah) - Web untuk bantu anak ILKOM UNNES skripsian
 - [gooofy/g2p_de](https://github.com/gooofy/g2p_de) - A Simple Python Module for German Grapheme To Phoneme Conversion
-- [Wikidepia/g2p-id](https://github.com/Wikidepia/g2p-id) - Indonesian Grapheme-to-Phoneme (IPA notation)
 
 ### 📊 GitHub Stats:
 
