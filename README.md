@@ -16,16 +16,16 @@
 ### 👷 Check out what I'm currently working on
 
 - [januarpancaran/dotfiles-niri](https://github.com/januarpancaran/dotfiles-niri) - My Niri Dotfiles
-- [januarpancaran/aes-sbox-construction](https://github.com/januarpancaran/aes-sbox-construction) - 
-- [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Stuff Configurations on Windows
+- [januarpancaran/aes-sbox-construction](https://github.com/januarpancaran/aes-sbox-construction) - A comprehensive web application for constructing, testing, and analyzing custom AES S-boxes based on the research paper &#34;AES S-box modification uses affine matrices exploration for increased S-box strength&#34; by Alamsyah et al. (2024).
+- [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Configurations on Windows
 - [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
 - [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental) - Property Rental Web App built using Laravel Framework
 
 ### 🌱 My latest projects
 
-- [januarpancaran/aes-sbox-construction](https://github.com/januarpancaran/aes-sbox-construction) - 
+- [januarpancaran/aes-sbox-construction](https://github.com/januarpancaran/aes-sbox-construction) - A comprehensive web application for constructing, testing, and analyzing custom AES S-boxes based on the research paper &#34;AES S-box modification uses affine matrices exploration for increased S-box strength&#34; by Alamsyah et al. (2024).
 - [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental) - Property Rental Web App built using Laravel Framework
-- [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Stuff Configurations on Windows
+- [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Configurations on Windows
 - [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
 - [januarpancaran/dotfiles-niri](https://github.com/januarpancaran/dotfiles-niri) - My Niri Dotfiles
 
@@ -39,11 +39,11 @@
 
 ### ⭐ Recent Stars
 
+- [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
 - [lyonad/S-box-Research-Analyzer](https://github.com/lyonad/S-box-Research-Analyzer) - Research Platform for AES S-box Modification through Affine Matrices Exploration and Parameter Optimization
 - [boppreh/aes](https://github.com/boppreh/aes) - A pure Python implementation of AES, with optional CBC, PCBC, CFB, OFB and CTR cipher modes.
 - [nix-community/nix-ld](https://github.com/nix-community/nix-ld) - Run unpatched dynamic binaries on NixOS [maintainer=@Mic92]
 - [ab-azmi/capek-kuliah](https://github.com/ab-azmi/capek-kuliah) - Web untuk bantu anak ILKOM UNNES skripsian
-- [gooofy/g2p_de](https://github.com/gooofy/g2p_de) - A Simple Python Module for German Grapheme To Phoneme Conversion
 
 ### 📊 GitHub Stats:
 
