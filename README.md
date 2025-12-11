@@ -31,11 +31,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [Merge nightly to dev](https://github.com/januarpancaran/property-rental/pull/64) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [Payment, Property Seeder, and Maintenance](https://github.com/januarpancaran/property-rental/pull/63) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [Nambah asset](https://github.com/hismaaa/Chop-No-More/pull/4) on [hismaaa/Chop-No-More](https://github.com/hismaaa/Chop-No-More)
 - [feat: adding enemy spawner](https://github.com/hismaaa/Chop-No-More/pull/3) on [hismaaa/Chop-No-More](https://github.com/hismaaa/Chop-No-More)
 - [refactor: changing shooting mode to auto](https://github.com/hismaaa/Chop-No-More/pull/2) on [hismaaa/Chop-No-More](https://github.com/hismaaa/Chop-No-More)
-- [Player stats](https://github.com/hismaaa/Chop-No-More/pull/1) on [hismaaa/Chop-No-More](https://github.com/hismaaa/Chop-No-More)
 
 ### ⭐ Recent Stars
 
