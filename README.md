@@ -15,19 +15,19 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [januarpancaran/notes-app](https://github.com/januarpancaran/notes-app) - 
 - [januarpancaran/tripzy](https://github.com/januarpancaran/tripzy) - Trip Management App Built Using Django and React TS
-- [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental) - Property Rental Web App built using Laravel Framework
-- [januarpancaran/dotfiles-niri](https://github.com/januarpancaran/dotfiles-niri) - My Niri Dotfiles
-- [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
-- [januarpancaran/aes-sbox-construction](https://github.com/januarpancaran/aes-sbox-construction) - A comprehensive web application for constructing, testing, and analyzing custom AES S-boxes based on the research paper &#34;AES S-box modification uses affine matrices exploration for increased S-box strength&#34; by Alamsyah et al. (2024).
+- [januarpancaran/portfolio-web](https://github.com/januarpancaran/portfolio-web) - 
+- [januarpancaran/coffee-order-app](https://github.com/januarpancaran/coffee-order-app) - 
+- [januarpancaran/todo-app](https://github.com/januarpancaran/todo-app) - 
 
 ### 🌱 My latest projects
 
+- [januarpancaran/notes-app](https://github.com/januarpancaran/notes-app) - 
+- [januarpancaran/portfolio-web](https://github.com/januarpancaran/portfolio-web) - 
+- [januarpancaran/todo-app](https://github.com/januarpancaran/todo-app) - 
+- [januarpancaran/coffee-order-app](https://github.com/januarpancaran/coffee-order-app) - 
 - [januarpancaran/aes-sbox-construction](https://github.com/januarpancaran/aes-sbox-construction) - A comprehensive web application for constructing, testing, and analyzing custom AES S-boxes based on the research paper &#34;AES S-box modification uses affine matrices exploration for increased S-box strength&#34; by Alamsyah et al. (2024).
-- [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental) - Property Rental Web App built using Laravel Framework
-- [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Configurations on Windows
-- [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
-- [januarpancaran/dotfiles-niri](https://github.com/januarpancaran/dotfiles-niri) - My Niri Dotfiles
 
 ### 🔨 My recent Pull Requests
 
