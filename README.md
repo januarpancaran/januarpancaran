@@ -56,10 +56,10 @@
 ### ⭐ Recent Stars
 
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
-- [lyonad/S-box-Research-Analyzer](https://github.com/lyonad/S-box-Research-Analyzer) - Research Platform for AES S-box Modification through Affine Matrices Exploration and Parameter Optimization
 - [boppreh/aes](https://github.com/boppreh/aes) - A pure Python implementation of AES, with optional CBC, PCBC, CFB, OFB and CTR cipher modes.
 - [nix-community/nix-ld](https://github.com/nix-community/nix-ld) - Run unpatched dynamic binaries on NixOS [maintainer=@Mic92]
 - [ab-azmi/capek-kuliah](https://github.com/ab-azmi/capek-kuliah) - Web untuk bantu anak ILKOM UNNES skripsian
+- [gooofy/g2p_de](https://github.com/gooofy/g2p_de) - A Simple Python Module for German Grapheme To Phoneme Conversion
 
 ### 📊 GitHub Stats:
 
