@@ -33,8 +33,8 @@
 
 - [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
 - [januarpancaran/notes-app](https://github.com/januarpancaran/notes-app) - A simple full-stack notes application with a Go backend and React/TypeScript frontend.
-- [januarpancaran/tripzy](https://github.com/januarpancaran/tripzy) - Trip Management App Built Using Django and React TS
 - [januarpancaran/portfolio-web](https://github.com/januarpancaran/portfolio-web) - My Personal Portfolio Web
+- [januarpancaran/tripzy](https://github.com/januarpancaran/tripzy) - Trip Management App Built Using Django and React TS
 - [januarpancaran/coffee-order-app](https://github.com/januarpancaran/coffee-order-app) - A full-stack web application for ordering coffee online with order tracking and admin dashboard functionality.
 
 ### 🌱 My latest projects
