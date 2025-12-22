@@ -32,10 +32,10 @@
 ### 👷 Check out what I'm currently working on
 
 - [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
+- [januarpancaran/aes-sbox-construction](https://github.com/januarpancaran/aes-sbox-construction) - A comprehensive web application for constructing, testing, and analyzing custom AES S-boxes based on the research paper &#34;AES S-box modification uses affine matrices exploration for increased S-box strength&#34; by Alamsyah et al. (2024).
 - [januarpancaran/notes-app](https://github.com/januarpancaran/notes-app) - A simple full-stack notes application with a Go backend and React/TypeScript frontend.
-- [januarpancaran/portfolio-web](https://github.com/januarpancaran/portfolio-web) - My Personal Portfolio Web
 - [januarpancaran/tripzy](https://github.com/januarpancaran/tripzy) - Trip Management App Built Using Django and React TS
-- [januarpancaran/coffee-order-app](https://github.com/januarpancaran/coffee-order-app) - A full-stack web application for ordering coffee online with order tracking and admin dashboard functionality.
+- [januarpancaran/portfolio-web](https://github.com/januarpancaran/portfolio-web) - My Personal Portfolio Web
 
 ### 🌱 My latest projects
 
@@ -43,7 +43,7 @@
 - [januarpancaran/portfolio-web](https://github.com/januarpancaran/portfolio-web) - My Personal Portfolio Web
 - [januarpancaran/todo-app](https://github.com/januarpancaran/todo-app) - A simple full-stack todo application with a Go backend API and a React &#43; TypeScript frontend.
 - [januarpancaran/coffee-order-app](https://github.com/januarpancaran/coffee-order-app) - A full-stack web application for ordering coffee online with order tracking and admin dashboard functionality.
-- [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental) - Property Rental Web App built using Laravel Framework
+- [januarpancaran/aes-sbox-construction](https://github.com/januarpancaran/aes-sbox-construction) - A comprehensive web application for constructing, testing, and analyzing custom AES S-boxes based on the research paper &#34;AES S-box modification uses affine matrices exploration for increased S-box strength&#34; by Alamsyah et al. (2024).
 
 ### 🔨 My recent Pull Requests
 
