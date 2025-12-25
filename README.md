@@ -55,11 +55,11 @@
 
 ### ⭐ Recent Stars
 
+- [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
 - [boppreh/aes](https://github.com/boppreh/aes) - A pure Python implementation of AES, with optional CBC, PCBC, CFB, OFB and CTR cipher modes.
 - [nix-community/nix-ld](https://github.com/nix-community/nix-ld) - Run unpatched dynamic binaries on NixOS [maintainer=@Mic92]
-- [ab-azmi/capek-kuliah](https://github.com/ab-azmi/capek-kuliah) - Web untuk bantu anak ILKOM UNNES skripsian
 
 ### 📊 GitHub Stats:
 
