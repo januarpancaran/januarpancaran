@@ -31,9 +31,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
 - [januarpancaran/aes-sbox-construction](https://github.com/januarpancaran/aes-sbox-construction) - A comprehensive web application for constructing, testing, and analyzing custom AES S-boxes based on the research paper &#34;AES S-box modification uses affine matrices exploration for increased S-box strength&#34; by Alamsyah et al. (2024).
 - [januarpancaran/country-malnutrition-clustering](https://github.com/januarpancaran/country-malnutrition-clustering) - 
-- [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
 - [januarpancaran/notes-app](https://github.com/januarpancaran/notes-app) - A simple full-stack notes application with a Go backend and React/TypeScript frontend.
 - [januarpancaran/tripzy](https://github.com/januarpancaran/tripzy) - Trip Management App Built Using Django and React TS
 
