@@ -35,7 +35,7 @@
 - [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Configurations on Windows
 - [januarpancaran/aes-sbox-construction](https://github.com/januarpancaran/aes-sbox-construction) - A comprehensive web application for constructing, testing, and analyzing custom AES S-boxes based on the research paper &#34;AES S-box modification uses affine matrices exploration for increased S-box strength&#34; by Alamsyah et al. (2024).
 - [januarpancaran/country-malnutrition-clustering](https://github.com/januarpancaran/country-malnutrition-clustering) - 
-- [januarpancaran/notes-app](https://github.com/januarpancaran/notes-app) - A simple full-stack notes application with a Go backend and React/TypeScript frontend.
+- [januarpancaran/portfolio-web](https://github.com/januarpancaran/portfolio-web) - My Personal Portfolio Web
 
 ### 🌱 My latest projects
 
