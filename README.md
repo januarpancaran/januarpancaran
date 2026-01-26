@@ -55,11 +55,11 @@
 
 ### ⭐ Recent Stars
 
+- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - [hackerai-tech/hackerai](https://github.com/hackerai-tech/hackerai) - AI-Powered Penetration Testing Assistant
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [inkle/ink](https://github.com/inkle/ink) - inkle&#39;s open source scripting language for writing interactive narrative.
-- [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 
 ### 📊 GitHub Stats:
 
