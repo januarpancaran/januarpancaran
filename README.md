@@ -55,11 +55,11 @@
 
 ### ⭐ Recent Stars
 
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured &amp; enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
 - [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - [hackerai-tech/hackerai](https://github.com/hackerai-tech/hackerai) - AI-Powered Penetration Testing Assistant
-- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 
 ### 📊 GitHub Stats:
 
