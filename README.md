@@ -31,11 +31,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [januarpancaran/dotfiles-niri](https://github.com/januarpancaran/dotfiles-niri) - My Niri Dotfiles
 - [januarpancaran/neovim-config](https://github.com/januarpancaran/neovim-config) - My Neovim Config
 - [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
 - [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Configurations on Windows
 - [januarpancaran/aes-sbox-construction](https://github.com/januarpancaran/aes-sbox-construction) - A comprehensive web application for constructing, testing, and analyzing custom AES S-boxes based on the research paper &#34;AES S-box modification uses affine matrices exploration for increased S-box strength&#34; by Alamsyah et al. (2024).
-- [januarpancaran/country-malnutrition-clustering](https://github.com/januarpancaran/country-malnutrition-clustering) - 
 
 ### 🌱 My latest projects
 
