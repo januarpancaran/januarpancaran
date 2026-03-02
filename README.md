@@ -55,11 +55,11 @@
 
 ### ⭐ Recent Stars
 
+- [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) - File Browser extension for telescope.nvim
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [prichrd/netrw.nvim](https://github.com/prichrd/netrw.nvim) - It&#39;s not because we use netrw that we cannot have nice things! 
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 ### 📊 GitHub Stats:
 
