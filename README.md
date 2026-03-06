@@ -31,9 +31,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [januarpancaran/neovim-config](https://github.com/januarpancaran/neovim-config) - My Neovim Config
 - [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
 - [januarpancaran/dotfiles-niri](https://github.com/januarpancaran/dotfiles-niri) - My Niri Dotfiles
-- [januarpancaran/neovim-config](https://github.com/januarpancaran/neovim-config) - My Neovim Config
 - [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Configurations on Windows
 - [januarpancaran/country-malnutrition-clustering](https://github.com/januarpancaran/country-malnutrition-clustering) - 
 
@@ -55,11 +55,11 @@
 
 ### ⭐ Recent Stars
 
+- [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
+- [nvim-java/nvim-java](https://github.com/nvim-java/nvim-java) - Painless Java in Neovim
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) - File Browser extension for telescope.nvim
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-- [prichrd/netrw.nvim](https://github.com/prichrd/netrw.nvim) - It&#39;s not because we use netrw that we cannot have nice things! 
-- [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 
 ### 📊 GitHub Stats:
 
