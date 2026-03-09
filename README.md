@@ -55,11 +55,11 @@
 
 ### ⭐ Recent Stars
 
+- [GustavEikaas/easy-dotnet.nvim](https://github.com/GustavEikaas/easy-dotnet.nvim) - A fully self-contained Neovim plugin for .NET development. Ships with integrated Roslyn LSP and netcoredbg debugging, offering fast, dependency-free setup and smooth build/test workflows for C# across .NET Core and .NET Framework.
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
 - [nvim-java/nvim-java](https://github.com/nvim-java/nvim-java) - Painless Java in Neovim
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
-- [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) - File Browser extension for telescope.nvim
 
 ### 📊 GitHub Stats:
 
