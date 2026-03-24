@@ -55,11 +55,11 @@
 
 ### ⭐ Recent Stars
 
+- [GMkonan/flake](https://github.com/GMkonan/flake) - My nixos &#43; home manager config for multiple hosts
 - [NixOS/nix-idea](https://github.com/NixOS/nix-idea) - Nix plugin for the IntelliJ IDEA IDE
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
 - [GustavEikaas/easy-dotnet.nvim](https://github.com/GustavEikaas/easy-dotnet.nvim) - A fully self-contained Neovim plugin for .NET development. Ships with integrated Roslyn LSP and netcoredbg debugging, offering fast, dependency-free setup and smooth build/test workflows for C# across .NET Core and .NET Framework.
-- [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
 
 ### 📊 GitHub Stats:
 
