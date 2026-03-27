@@ -55,11 +55,11 @@
 
 ### ⭐ Recent Stars
 
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
 - [GMkonan/flake](https://github.com/GMkonan/flake) - My nixos &#43; home manager config for multiple hosts
 - [NixOS/nix-idea](https://github.com/NixOS/nix-idea) - Nix plugin for the IntelliJ IDEA IDE
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
-- [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
 
 ### 📊 GitHub Stats:
 
