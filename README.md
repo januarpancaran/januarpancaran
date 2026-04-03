@@ -55,11 +55,11 @@
 
 ### ⭐ Recent Stars
 
+- [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider&#39;s Guide
 - [tmds/linux-dev-certs](https://github.com/tmds/linux-dev-certs) - 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, &amp; patcher. 3,600&#43; icons, 50&#43; patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
-- [GMkonan/flake](https://github.com/GMkonan/flake) - My nixos &#43; home manager config for multiple hosts
 
 ### 📊 GitHub Stats:
 
