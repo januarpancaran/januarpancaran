@@ -32,8 +32,8 @@
 ### 👷 Check out what I'm currently working on
 
 - [januarpancaran/ubuntu-niri-dots](https://github.com/januarpancaran/ubuntu-niri-dots) - 
-- [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Configurations on Windows
 - [januarpancaran/neovim-config](https://github.com/januarpancaran/neovim-config) - My Neovim Config
+- [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Configurations on Windows
 - [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
 - [januarpancaran/dotfiles-niri](https://github.com/januarpancaran/dotfiles-niri) - My Niri Dotfiles
 
@@ -55,11 +55,11 @@
 
 ### ⭐ Recent Stars
 
+- [pfassina/lazyvim-nix](https://github.com/pfassina/lazyvim-nix) - This flake provides a bleeding edge LazyVim  home-manager module, allowing you to install and configure LazyVim declaratively on NixOS. It tracks LazyVim releases automatically, and uses the latest plugin versions at the time of a LazyVim release.
 - [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider&#39;s Guide
 - [tmds/linux-dev-certs](https://github.com/tmds/linux-dev-certs) - 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, &amp; patcher. 3,600&#43; icons, 50&#43; patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
 
 ### 📊 GitHub Stats:
 
