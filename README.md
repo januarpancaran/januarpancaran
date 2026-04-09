@@ -31,19 +31,19 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [januarpancaran/arch-niri](https://github.com/januarpancaran/arch-niri) - 
 - [januarpancaran/ubuntu-niri-dots](https://github.com/januarpancaran/ubuntu-niri-dots) - 
 - [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
 - [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Configurations on Windows
 - [januarpancaran/neovim-config](https://github.com/januarpancaran/neovim-config) - My Neovim Config
+- [januarpancaran/aes-sbox-construction](https://github.com/januarpancaran/aes-sbox-construction) - A comprehensive web application for constructing, testing, and analyzing custom AES S-boxes based on the research paper &#34;AES S-box modification uses affine matrices exploration for increased S-box strength&#34; by Alamsyah et al. (2024).
 
 ### 🌱 My latest projects
 
-- [januarpancaran/arch-niri](https://github.com/januarpancaran/arch-niri) - 
 - [januarpancaran/ubuntu-niri-dots](https://github.com/januarpancaran/ubuntu-niri-dots) - 
 - [januarpancaran/notes-app](https://github.com/januarpancaran/notes-app) - A simple full-stack notes application with a Go backend and React/TypeScript frontend.
 - [januarpancaran/portfolio-web](https://github.com/januarpancaran/portfolio-web) - My Personal Portfolio Web
 - [januarpancaran/todo-app](https://github.com/januarpancaran/todo-app) - A simple full-stack todo application with a Go backend API and a React &#43; TypeScript frontend.
+- [januarpancaran/coffee-order-app](https://github.com/januarpancaran/coffee-order-app) - A full-stack web application for ordering coffee online with order tracking and admin dashboard functionality.
 
 ### 🔨 My recent Pull Requests
 
