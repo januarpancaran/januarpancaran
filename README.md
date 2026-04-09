@@ -31,9 +31,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [januarpancaran/ubuntu-niri-dots](https://github.com/januarpancaran/ubuntu-niri-dots) - 
 - [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
 - [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Configurations on Windows
-- [januarpancaran/ubuntu-niri-dots](https://github.com/januarpancaran/ubuntu-niri-dots) - 
 - [januarpancaran/neovim-config](https://github.com/januarpancaran/neovim-config) - My Neovim Config
 - [januarpancaran/aes-sbox-construction](https://github.com/januarpancaran/aes-sbox-construction) - A comprehensive web application for constructing, testing, and analyzing custom AES S-boxes based on the research paper &#34;AES S-box modification uses affine matrices exploration for increased S-box strength&#34; by Alamsyah et al. (2024).
 
