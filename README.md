@@ -31,9 +31,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
 - [januarpancaran/arch-niri](https://github.com/januarpancaran/arch-niri) - 
 - [januarpancaran/ubuntu-niri-dots](https://github.com/januarpancaran/ubuntu-niri-dots) - 
-- [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
 - [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Configurations on Windows
 - [januarpancaran/neovim-config](https://github.com/januarpancaran/neovim-config) - My Neovim Config
 
