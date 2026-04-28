@@ -31,8 +31,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [anggyputra/testgit](https://github.com/anggyputra/testgit) - Test only
 - [januarpancaran/arch-niri](https://github.com/januarpancaran/arch-niri) - 
+- [anggyputra/testgit](https://github.com/anggyputra/testgit) - Test only
 - [januarpancaran/neovim-config](https://github.com/januarpancaran/neovim-config) - My Neovim Config
 - [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Configurations on Windows
 - [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
