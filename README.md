@@ -33,9 +33,9 @@
 
 - [januarpancaran/nix-dots](https://github.com/januarpancaran/nix-dots) - My NixOS config and dotfiles for personal desktop and WSL
 - [januarpancaran/ubuntu-niri-dots](https://github.com/januarpancaran/ubuntu-niri-dots) - 
+- [arbiyanto/honorel](https://github.com/arbiyanto/honorel) - A Laravel/Symfony-inspired framework for Hono &#43; Bun.  Experimental for private company projects
 - [januarpancaran/neovim-config](https://github.com/januarpancaran/neovim-config) - My Neovim Config
 - [januarpancaran/win-terminal-conf](https://github.com/januarpancaran/win-terminal-conf) - My Terminal Configurations on Windows
-- [januarpancaran/arch-niri](https://github.com/januarpancaran/arch-niri) - 
 
 ### 🌱 My latest projects
 
@@ -47,11 +47,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [fix(csrf): update CSRF token handling to return 419 for missing token…](https://github.com/arbiyanto/honorel/pull/27) on [arbiyanto/honorel](https://github.com/arbiyanto/honorel)
 - [Dev](https://github.com/januarpancaran/tripzy/pull/52) on [januarpancaran/tripzy](https://github.com/januarpancaran/tripzy)
 - [merge dev to main](https://github.com/januarpancaran/property-rental/pull/66) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [merge nightly to dev](https://github.com/januarpancaran/property-rental/pull/65) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 - [Merge nightly to dev](https://github.com/januarpancaran/property-rental/pull/64) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
-- [Payment, Property Seeder, and Maintenance](https://github.com/januarpancaran/property-rental/pull/63) on [januarpancaran/property-rental](https://github.com/januarpancaran/property-rental)
 
 ### ⭐ Recent Stars
 
